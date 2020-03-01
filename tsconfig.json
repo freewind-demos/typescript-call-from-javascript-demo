@@ -3,6 +3,7 @@
     "strict": true,
     "target": "es6",
     "module": "commonjs",
+    "allowJs": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true
   },

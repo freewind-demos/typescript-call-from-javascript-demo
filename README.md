@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
-===========================
+TypeScript Imported in JavaScript Demo
+======================================
+
+在js文件中import一个typescript文件，关键在于：`"allowJs": true`
 
 ```
 npm install
 npm run demo
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
